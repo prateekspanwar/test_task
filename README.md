@@ -9,6 +9,9 @@
 open the terminal and follow the instruction
 
 ```
+git clone https://github.com/prateekspanwar/test_task.git
+```
+```
 virtualenv -p python3.6 .env
 ```
 ```
@@ -21,7 +24,7 @@ pip install -r requirement.txt
 
 - run the script for downloading the daily and monthly oil price
 ```
-python oilPrice.py
+python OilPrice.py
 ```
 - to view the line graph for the latest monthly data file
 ```
